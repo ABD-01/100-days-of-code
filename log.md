@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: June 1, 2020 
 ##### (delete me or comment me out)
 
 **Today's Progress**: Started assignment on File Handeling.
